@@ -1,0 +1,37 @@
+{
+  "name": "friends-of-figma-talk",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --experimental-strip-types --test tests/*.test.*",
+    "tokens": "node --experimental-strip-types scripts/generate-tokens.mjs",
+    "check:source":"node scripts/validate-source.mjs",
+    "validate:source": "node scripts/validate-source.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.2",
+    "@supabase/supabase-js": "2.119.0",
+    "dialkit": "^2.2.0",
+    "motion": "^14.12.0",
+    "qrcode": "1.5.4",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.15",
+    "@types/qrcode": "1.5.6",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "@types/three": "0.180.0",
+    "@vitejs/plugin-react": "6.3.0",
+    "typescript": "7.0.2",
+    "vite": "8.3.7"
+  }
+}

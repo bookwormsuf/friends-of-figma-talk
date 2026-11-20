@@ -1,0 +1,32 @@
+import {Opening} from '../slides/Opening';
+import {Timeline} from '../slides/Timeline';
+import {Diagram} from '../slides/Diagram';
+import {Screenshots} from '../slides/Screenshots';
+import {DrillRocket} from '../slides/DrillRocket';
+import {HollowBook} from '../slides/HollowBook';
+import {Gallery} from '../slides/Gallery';
+import {Morph} from '../slides/Morph';
+import {Split} from '../slides/Split';
+import {Trail} from '../slides/Trail';
+import {Closing} from '../slides/Closing';
+import {LectureScreen} from '../slides/LectureScreen';
+import {ContentSlide} from '../slides/ContentSlide';
+import {slideLayouts} from '../slides/layouts';
+import type {SlideProps} from '../slides/types';
+const compositions={ '3:2':Opening,'3:47':Timeline,'4:118':Screenshots};
+export function SlideVisual(props:SlideProps){
+ if(props.slide.id==='28:111')return <Diagram {...props} variant={2}/>;
+ if(props.slide.id==='4:49')return <HollowBook {...props}/>;
+ if(props.slide.id==='4:127')return <DrillRocket {...props}/>;
+ const Composition=compositions[props.slide.id as keyof typeof compositions];
+ if(Composition)return <Composition {...props}/>;
+ if(slideLayouts[props.slide.id]?.kind==='screen')return <LectureScreen {...props}/>;
+ if(slideLayouts[props.slide.id]?.kind==='morph')return <Morph {...props}/>;
+ if(slideLayouts[props.slide.id]?.kind==='pinned')throw new Error(`Slide ${props.slide.id} is pinned to ${slideLayouts[props.slide.id].anchor}. Render the anchor slide with a step instead.`);
+ if(slideLayouts[props.slide.id]?.kind==='split')return <Split {...props}/>;
+ if(slideLayouts[props.slide.id]?.kind==='trail')return <Trail {...props}/>;
+ if(slideLayouts[props.slide.id]?.kind==='closing')return <Closing {...props}/>;
+ if(slideLayouts[props.slide.id]?.kind==='gallery')return <Gallery {...props}/>;
+ if(slideLayouts[props.slide.id])return <ContentSlide {...props}/>;
+ throw new Error(`Source slide ${props.slide.id} has no reviewed layout. Add a composition before publishing.`);
+}

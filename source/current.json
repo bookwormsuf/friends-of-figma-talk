@@ -1,0 +1,3380 @@
+{
+  "fileKey": "8CqcgYkpohVGMg2b9ag5FW",
+  "page": "0:1",
+  "slides": [
+    {
+      "id": "3:2",
+      "name": "1",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Hi everyone. I'm Sufyan. I'm a designer at Open Government Products, or OGP for short. Earlier Chris was talking about how Designers can move up the strategic layer in the age of AI. I wanna look at it from another angle, I wanna explore with you how AI is tool that can you from the What if to the Try this a lot easier. ",
+      "text": [
+        {
+          "id": "3:8",
+          "text": "“What if”",
+          "x": 308.84222412109375,
+          "y": 185.14163208007812
+        },
+        {
+          "id": "3:9",
+          "text": "to",
+          "x": 807.4091796875,
+          "y": 513.9708862304688
+        },
+        {
+          "id": "3:10",
+          "text": "“Try this”",
+          "x": 927.3341064453125,
+          "y": 716.2053833007812
+        },
+        {
+          "id": "78:2",
+          "text": "Sufyan Selamet",
+          "x": 96,
+          "y": 925
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          240
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 1
+    },
+    {
+      "id": "3:11",
+      "name": "2",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Even before AI, exploring these questions and trying them out is a big part of what I do day to day. OGP is an experimental technology team within the Singapore government. The photo here is from our annual hackathon where we explore any kind of problem or question for public good, and build something for it. This is probably the biggest event my organisation has where we officially experiment with different ideas, but a lot of it happens in our daily work, within our individual product teams as well. \nFor me, exploring the what ifs didn't start in OGP, but I can trace it back to around a decade ago, back when I was in university.\n\n",
+      "text": [],
+      "assets": [
+        {
+          "id": "9:10",
+          "name": "DSC_8407 1",
+          "type": "IMAGE",
+          "hash": "fa354a5eea08a583513b31d16fd859fbf0da50cb",
+          "x": 0,
+          "y": -21,
+          "width": 1920,
+          "height": 1280.15625,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              2400
+            ],
+            [
+              0,
+              1,
+              219
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              -21
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "3:11",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          2400
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 2
+    },
+    {
+      "id": "3:19",
+      "name": "3",
+      "row": "Row",
+      "skipped": false,
+      "notes": "In uni, I was trying out many different things, all experimenting with different what ifs of what my future could be.\n\nI spent most of my time dancing, wondering if I should explore something in the arts \n\nI was also part of the school newspaper for a while, thinking if I should be a journalist. You can see an example of my gripping investigative journalism here. Halloween treats are important okay.\n\nNearing the end of university, I also joined a pro-bono consulting club, because was want to see how I could deliver public good using professional skills. \n\nYou might notice that none of these involved studying\n\n",
+      "text": [],
+      "assets": [
+        {
+          "id": "10:34",
+          "name": "image 1",
+          "type": "IMAGE",
+          "hash": "95aa15ce6c33f35bed8f8d7ea7c56fd44a8fde58",
+          "x": 225,
+          "y": 3,
+          "width": 1527,
+          "height": 1073.671875,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              6945
+            ],
+            [
+              0,
+              1,
+              243
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              225
+            ],
+            [
+              0,
+              1,
+              3
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "3:19",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:43",
+          "name": "Screenshot 2026-11-10 at 3.59.05 PM 1",
+          "type": "IMAGE",
+          "hash": "161b1e12496c9ce0c9cd599b68c1f83374da303e",
+          "x": 983,
+          "y": 131,
+          "width": 937,
+          "height": 818,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              7703
+            ],
+            [
+              0,
+              1,
+              371
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              983
+            ],
+            [
+              0,
+              1,
+              131
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "3:19",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:44",
+          "name": "2026-11-10 16.01.20 1",
+          "type": "IMAGE",
+          "hash": "b83482a38f031f6949cf63686fc791d66b19705a",
+          "x": 400,
+          "y": 200,
+          "width": 1235.03515625,
+          "height": 824,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              7120
+            ],
+            [
+              0,
+              1,
+              440
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              400
+            ],
+            [
+              0,
+              1,
+              200
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "3:19",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          6720
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 3
+    },
+    {
+      "id": "3:29",
+      "name": "4",
+      "row": "Row",
+      "skipped": false,
+      "notes": "In 2015, in my first semester of uni. I saw a module with the word ‘design’ in it and thought: Photoshop. I'd been doing comms work since before uni and I was tired of talking about things. I wanted to make things. \n\nWhat if, I became a graphic designer, making really nice posters and ads. ",
+      "text": [
+        {
+          "id": "8:5",
+          "text": "Design",
+          "x": 452.318359375,
+          "y": 617.064697265625
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          13200
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 4
+    },
+    {
+      "id": "3:31",
+      "name": "5",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Unfortunately, I never read the full course title because I was busy not stuying. \n\nDuring the first session, the lecturer said \"In this module, you'll learn how to design mobile apps\". And I'm sitting there going: shit. That is not what I signed up for.",
+      "text": [
+        {
+          "id": "3:32",
+          "text": "Introduction to",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "id": "3:33",
+          "text": "User Experience",
+          "x": 0,
+          "y": 155.70712280273438
+        },
+        {
+          "id": "3:34",
+          "text": "Design",
+          "x": 0,
+          "y": 311.41424560546875
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          15360
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 5
+    },
+    {
+      "id": "3:42",
+      "name": "6",
+      "row": "Row",
+      "skipped": false,
+      "notes": "But, what if I just gave it a shot. What if I became a user experience designer? ",
+      "text": [
+        {
+          "id": "3:45",
+          "text": "What if I just",
+          "x": 619.2427368164062,
+          "y": 398.2134094238281
+        },
+        {
+          "id": "3:46",
+          "text": "gave it a shot?",
+          "x": 566.3109741210938,
+          "y": 539.5025024414062
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          17520
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 6
+    },
+    {
+      "id": "3:47",
+      "name": "7",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Ten years later, here I am. Over those ten years I've tried and learned a lot of things. I've evolved as a designer, and what it means to be a designer has evolved as well. This meant that I had to constantly explore new spaces and try new things. Sometimes trying something new took a really long time, or required a lot of resources to actually get started. ",
+      "text": [
+        {
+          "id": "4:157",
+          "text": "2015",
+          "x": 202.9272918701172,
+          "y": 305.0169677734375
+        },
+        {
+          "id": "4:158",
+          "text": "NUS",
+          "x": 176.4272918701172,
+          "y": 489.79925537109375
+        },
+        {
+          "id": "4:159",
+          "text": "First UX module",
+          "x": 139.9272918701172,
+          "y": 600.0779418945312
+        },
+        {
+          "id": "4:160",
+          "text": "2018–2020",
+          "x": 614.4756469726562,
+          "y": 305.0169677734375
+        },
+        {
+          "id": "4:161",
+          "text": "Grab",
+          "x": 643.4756469726562,
+          "y": 489.79925537109375
+        },
+        {
+          "id": "4:162",
+          "text": "Designing navigation \nand search",
+          "x": 619.9756469726562,
+          "y": 600.0779418945312
+        },
+        {
+          "id": "4:163",
+          "text": "2021–2023",
+          "x": 1088.0240478515625,
+          "y": 305.0169677734375
+        },
+        {
+          "id": "4:164",
+          "text": "GXS Bank",
+          "x": 1034.0240478515625,
+          "y": 489.79925537109375
+        },
+        {
+          "id": "4:165",
+          "text": "Designing banking for \nconsumers",
+          "x": 1093.0240478515625,
+          "y": 600.0779418945312
+        },
+        {
+          "id": "4:166",
+          "text": "2023–now",
+          "x": 1567.5723876953125,
+          "y": 305.0169677734375
+        },
+        {
+          "id": "4:167",
+          "text": "OGP",
+          "x": 1591.5723876953125,
+          "y": 489.79925537109375
+        },
+        {
+          "id": "4:168",
+          "text": "Designing government\nsoftware ",
+          "x": 1552.0723876953125,
+          "y": 600.0779418945312
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          19680
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 7
+    },
+    {
+      "id": "3:68",
+      "name": "8",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Sometime last year, trying got cheap. AI has made trying cheaper. And i wondered, what's something that I could try going a lot deeper on, with this new plaything i had on hand ",
+      "text": [
+        {
+          "id": "3:69",
+          "text": "AI has made trying cheaper",
+          "x": 133.85546875,
+          "y": 359
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          21840
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 8
+    },
+    {
+      "id": "4:11",
+      "name": "9",
+      "row": "Row",
+      "skipped": false,
+      "notes": "What if I could do deeper research.",
+      "text": [
+        {
+          "id": "4:14",
+          "text": "What if I could do",
+          "x": 481.492431640625,
+          "y": 398.2134094238281
+        },
+        {
+          "id": "4:15",
+          "text": "deeper research?",
+          "x": 490.8322448730469,
+          "y": 539.5025024414062
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          24000
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 9
+    },
+    {
+      "id": "27:46",
+      "name": "10",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Research is one of the things I find most interesting about design. In fact, I don't think i really studied that much but I really enjoyed doing my undergraduate thesis . Working on my thesis was one of the best experiences for me really digging in qualitative research and swimming around in interviews. I remember spending weeks staring at excel sheets filled with lines of data. \n\n",
+      "text": [
+        {
+          "id": "156:2",
+          "text": "2018",
+          "x": 933,
+          "y": 968.3726806640625
+        }
+      ],
+      "assets": [
+        {
+          "id": "27:53",
+          "name": "2026-11-10 16.14.26 1",
+          "type": "IMAGE",
+          "hash": "33c4ac8f4da6490836e7bee1ddef69d83ab4c043",
+          "x": 548,
+          "y": 128,
+          "width": 824,
+          "height": 824,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              26708
+            ],
+            [
+              0,
+              1,
+              368
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              548
+            ],
+            [
+              0,
+              1,
+              128
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:46",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          26160
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 10
+    },
+    {
+      "id": "27:55",
+      "name": "11",
+      "row": "Row",
+      "skipped": false,
+      "notes": "I love understanding what makes people tick. But it takes time. And at OGP, teams are lean, with each person in each function being expected to go beyond their official role. \n\nThe team I'm on builds FormSG, a form builder for the Singapore government. It's one of the larger teams in OGP.  There's me, my PM, 3 ops, and 5 engineers, which might be the largest team of engineers in OGP\n\nWe have many running tracks. Each engineer owns their own feature stream, but there's only one designer to work on everything from research to final polish. Some days you also do strategy, some days you respond to customer queries.  So the time left for research is short. Research is still an important part of the process, sometimes it ends up being very compressed.",
+      "text": [],
+      "assets": [
+        {
+          "id": "27:63",
+          "name": "image 2",
+          "type": "IMAGE",
+          "hash": "287a42609c7a22008184f58d198ac831aee54bf9",
+          "x": 423,
+          "y": 128,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              28743
+            ],
+            [
+              0,
+              1,
+              368
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              423
+            ],
+            [
+              0,
+              1,
+              128
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:70",
+          "name": "image 5",
+          "type": "IMAGE",
+          "hash": "3095e7d30bc726e6ecf9942646ed25ddeacb3c36",
+          "x": 126,
+          "y": 690,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              28446
+            ],
+            [
+              0,
+              1,
+              930
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              126
+            ],
+            [
+              0,
+              1,
+              690
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:89",
+          "name": "image 11",
+          "type": "IMAGE",
+          "hash": "c48b7988ccf7ec1969d2519bf7349f8a39f4b013",
+          "x": 423,
+          "y": 690,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              28743
+            ],
+            [
+              0,
+              1,
+              930
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              423
+            ],
+            [
+              0,
+              1,
+              690
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:91",
+          "name": "image 12",
+          "type": "IMAGE",
+          "hash": "8a9eb2295d4e9bb5cdab01d31fd4d43e6e12d8bb",
+          "x": 720,
+          "y": 690,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              29040
+            ],
+            [
+              0,
+              1,
+              930
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              720
+            ],
+            [
+              0,
+              1,
+              690
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:66",
+          "name": "image 3",
+          "type": "IMAGE",
+          "hash": "5f99ccb4d5e55b52d112a757ce318604b35cf0df",
+          "x": 126,
+          "y": 128,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              28446
+            ],
+            [
+              0,
+              1,
+              368
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              126
+            ],
+            [
+              0,
+              1,
+              128
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:75",
+          "name": "image 6",
+          "type": "IMAGE",
+          "hash": "8e67f9f8b5408a875346694e682985670a7092cb",
+          "x": 126,
+          "y": 409,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              28446
+            ],
+            [
+              0,
+              1,
+              649
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              126
+            ],
+            [
+              0,
+              1,
+              409
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:77",
+          "name": "image 7",
+          "type": "IMAGE",
+          "hash": "9a5d9155e905bfea7740bb26cf177a66de8fd183",
+          "x": 423,
+          "y": 409,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              28743
+            ],
+            [
+              0,
+              1,
+              649
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              423
+            ],
+            [
+              0,
+              1,
+              409
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:79",
+          "name": "image 8",
+          "type": "IMAGE",
+          "hash": "915565885e296a08373f5317be551bacfd606901",
+          "x": 720,
+          "y": 409,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              29040
+            ],
+            [
+              0,
+              1,
+              649
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              720
+            ],
+            [
+              0,
+              1,
+              409
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:81",
+          "name": "image 9",
+          "type": "IMAGE",
+          "hash": "61bfc46a2b2c562dd4138d9db67cb70a990a725e",
+          "x": 1017,
+          "y": 409,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              29337
+            ],
+            [
+              0,
+              1,
+              649
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              1017
+            ],
+            [
+              0,
+              1,
+              409
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "27:83",
+          "name": "image 10",
+          "type": "IMAGE",
+          "hash": "d3263cbd67638f65efba5971083af6ee59a31915",
+          "x": 1314,
+          "y": 409,
+          "width": 194,
+          "height": 194,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              29634
+            ],
+            [
+              0,
+              1,
+              649
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              1314
+            ],
+            [
+              0,
+              1,
+              409
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:55",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          28320
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 11
+    },
+    {
+      "id": "4:19",
+      "name": "12",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Here's how I used to do it, and maybe how some of you do it now. This was some research I was doing about how government officers think about Signatures and Authentication, we were exploring how to get people to digitalise forms with Signatures. \n\nI would run the interviews, and dump them all into notion. Then i'd run some quick tagging to figure out key themes. I'd then pull out the quotes that fit and write a report. It got the job done, but I really wanted to go deeper, especially when I wanted to understand foundational mental models for government officers and how they think about forms and process across government. \n\n",
+      "text": [],
+      "assets": [
+        {
+          "id": "28:109",
+          "name": "Screenshot 2026-11-10 at 4.58.35 PM 1",
+          "type": "IMAGE",
+          "hash": "2544ae130858a589544cf598c11f3919d6046ed8",
+          "x": 0,
+          "y": 106,
+          "width": 1915.5223388671875,
+          "height": 868,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              30480
+            ],
+            [
+              0,
+              1,
+              346
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              106
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:19",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          30480
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 12
+    },
+    {
+      "id": "28:111",
+      "name": "13",
+      "row": "Row",
+      "skipped": false,
+      "notes": "At the start of the year, i wondered, What if I could dump interviews directly into AI? I tried using AI to generate summaries and findings before, but I often found the outcomes to be unreliable, and I was unable to dig into the implicit assumptions the model was making around the raw qualitative data.  I tried running a slightly different analysis on the same set of transcripts before, and the outcomes turned out extremely different.\n\nIt's hard to determine how the model reached the end outcomes from the raw data. I wanted to be able to break down the analysis to the smallest level of understanding. \n\n",
+      "text": [
+        {
+          "id": "32:18",
+          "text": "Raw\ndata",
+          "x": 150,
+          "y": 395
+        },
+        {
+          "id": "32:19",
+          "text": "Final\nsynthesis",
+          "x": 1320,
+          "y": 395
+        },
+        {
+          "id": "32:20",
+          "text": "?",
+          "x": 845,
+          "y": 280
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          32640
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 13
+    },
+    {
+      "id": "4:40",
+      "name": "14",
+      "row": "Row",
+      "skipped": false,
+      "notes": "So I started wondering: what if I could get back the depth I had in my undergraduate thesis back into my day-to-day at work, using AI? I tried to start with the smallest thing, what if I could do get AI to help me tag all the sentences in an interview transcript against certain set tags. \n\nSo i started with writing a sheet of tags and definitions, and getting AI to tag all the sentences in a a few transcripts against these definitions. What might have taken a day to just a few hours. \n\nThat worked, so I went one rung up. Again, what if I could use AI to synthesise all the tagged data? I gave the LLM the tagged transcripts, and asked it for themes together with a first cut of findings ",
+      "text": [],
+      "assets": [
+        {
+          "id": "28:114",
+          "name": "Screenshot 2026-11-10 at 5.02.21 PM 1",
+          "type": "IMAGE",
+          "hash": "8ccbec770c9f6fef483ebec1d05838e654f68ad3",
+          "x": 249,
+          "y": 0,
+          "width": 1421,
+          "height": 1351.11474609375,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              35049
+            ],
+            [
+              0,
+              1,
+              240
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              249
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:40",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          34800
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 14
+    },
+    {
+      "id": "4:49",
+      "name": "15",
+      "row": "Row",
+      "skipped": false,
+      "notes": "And this is where the problem showed up. \n\nThe first synthesis looked great. From a quick skim the report looked very clean, the sentences and assertions sounded confident and clear. But when I dug into it, it was really shallow. I realised that it was very, very good at making things look deep, when it actually wasn't. \n\n I pushed back against the first synthesis to interrogate the LLM. I asked which lines support these, what did it understand from the different themes, how significant really were certain findings. Over and over, the same interrogation I used to do by hand, similar to a research crit I might do with a colleague or an intern, or maybe sort of like a peer review of the research. ",
+      "text": [
+        {
+          "id": "32:45",
+          "text": "Which lines hold this up?",
+          "x": 180,
+          "y": 85
+        },
+        {
+          "id": "33:35",
+          "text": "“",
+          "x": 400,
+          "y": 897
+        },
+        {
+          "id": "33:36",
+          "text": "“",
+          "x": 660,
+          "y": 907
+        },
+        {
+          "id": "33:37",
+          "text": "“",
+          "x": 930,
+          "y": 827
+        },
+        {
+          "id": "33:38",
+          "text": "“",
+          "x": 1200,
+          "y": 907
+        },
+        {
+          "id": "33:39",
+          "text": "“",
+          "x": 1460,
+          "y": 897
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          36960
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 15
+    },
+    {
+      "id": "114:2",
+      "name": "16",
+      "row": "Row",
+      "skipped": false,
+      "notes": "So every time I pushed back, I got it to write things down. This is a log from one of my research projects. It records what was done, what was checked, and what's still waiting on me to review.\n\nRemember this question mark from earlier? I couldn't see how the model got from the raw data to the final synthesis.\n\nNow I can. Every tag, every round of coding, every time I pushed back and what changed because of it. I can trace any finding back to the lines that hold it up, and so can anyone else on my team.",
+      "text": [
+        {
+          "id": "114:9",
+          "text": "Raw\ndata",
+          "x": 150,
+          "y": 395
+        },
+        {
+          "id": "114:10",
+          "text": "Final\nsynthesis",
+          "x": 1320,
+          "y": 395
+        },
+        {
+          "id": "114:11",
+          "text": "?",
+          "x": 845,
+          "y": 280
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          32640
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 16
+    },
+    {
+      "id": "4:51",
+      "name": "17",
+      "row": "Row",
+      "skipped": false,
+      "notes": "I could do this because I knew what good looked like. To me good research answers questions clearly, with rigour and transparency. The tool just made it easier to get there, and it gave me the time to hold a higher quality bar towards my work. \n\nBut what about spaces i knew nothing about? ",
+      "text": [
+        {
+          "id": "4:52",
+          "text": "I know what good \nlooks like",
+          "x": 247,
+          "y": 358
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          39120
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "order": 17
+    },
+    {
+      "id": "4:56",
+      "name": "18",
+      "row": "Row",
+      "skipped": false,
+      "notes": "The second what-if came out of irritation. What if I could change the product myself?\n\nIf you've worked on a product for a while you know this feeling. You'll notice little things that are off. Maybe its a line of copy that uses a different terminology, maybe its a button that's using the wrong colour, maybe its a pop-up that's using a different set of buttons. You see all the design debt that piles up.\n\nAnd often, there's always something else more important that might take up an engineer's time or there hasn't been a user who's actually complained about it directly. In these cases, it's often a case of mismatched incentives, where the effort to actually make the fix is much higher compared to the payoff, if any even exists. \n",
+      "text": [
+        {
+          "id": "4:59",
+          "text": "What if I could change",
+          "x": 353.6451721191406,
+          "y": 398.2134094238281
+        },
+        {
+          "id": "4:60",
+          "text": "the product myself?",
+          "x": 407.224609375,
+          "y": 539.5025024414062
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          240
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 18
+    },
+    {
+      "id": "4:61",
+      "name": "19",
+      "row": "Row",
+      "skipped": false,
+      "notes": "As I mentioned earlier, I work on FormSG, a product that's been around for a while. To give you a taste of how the product has changed, or not, over the years, let's use the results page as an example. Form responses that are collected through the form can be viewed on a results page that sits within the portal for FormSG admins. This is what the results page looked like in 2020.",
+      "text": [
+        {
+          "id": "4:63",
+          "text": "2020",
+          "x": 96.12016296386719,
+          "y": 968.3726806640625
+        }
+      ],
+      "assets": [
+        {
+          "id": "4:62",
+          "name": "Image · assets/builder-2020.png",
+          "type": "IMAGE",
+          "hash": "0de54a663d508a4847da345c5298f13eb563de37",
+          "x": 96.12016296386719,
+          "y": 77.3185043334961,
+          "width": 1727.759521484375,
+          "height": 865.081298828125,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              2496.1201171875
+            ],
+            [
+              0,
+              1,
+              1637.3184814453125
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              96.1201171875
+            ],
+            [
+              0,
+              1,
+              77.3184814453125
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:61",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          2400
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 19
+    },
+    {
+      "id": "4:64",
+      "name": "20",
+      "row": "Row",
+      "skipped": false,
+      "notes": "This is 2024. You can see that we made a few styling changes, but I think more or less it looks the same.",
+      "text": [
+        {
+          "id": "4:66",
+          "text": "2024",
+          "x": 96.12016296386719,
+          "y": 968.3726806640625
+        }
+      ],
+      "assets": [
+        {
+          "id": "4:65",
+          "name": "Image · assets/builder-2024.png",
+          "type": "IMAGE",
+          "hash": "13c44dd4de952ad9b17a2ee04f3b7c0b6fd49fef",
+          "x": 96.12016296386719,
+          "y": 77.3185043334961,
+          "width": 1727.759521484375,
+          "height": 865.081298828125,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              4656.1201171875
+            ],
+            [
+              0,
+              1,
+              1637.3184814453125
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              96.1201171875
+            ],
+            [
+              0,
+              1,
+              77.3184814453125
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:64",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          4560
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 20
+    },
+    {
+      "id": "4:67",
+      "name": "21",
+      "row": "Row",
+      "skipped": false,
+      "notes": "This is how it looks like today. We made a few styling changes, and added a few more features, like being able to view all the different fields, different ways to filter and save the filtered views. But there's still a lot of design decisions that we've carried over from the past. In all the time that FormSG has existed, there's only been one, max two designers on it. So there's a lot of design debt and design history that has piled up.",
+      "text": [
+        {
+          "id": "4:69",
+          "text": "2026",
+          "x": 96.12016296386719,
+          "y": 968.3726806640625
+        }
+      ],
+      "assets": [
+        {
+          "id": "4:68",
+          "name": "Image · assets/builder-2026.png",
+          "type": "IMAGE",
+          "hash": "271ffc99fa95cb13078551d63f78dc66b7664a00",
+          "x": 96.12016296386719,
+          "y": 77.3185043334961,
+          "width": 1727.759521484375,
+          "height": 865.081298828125,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              6816.1201171875
+            ],
+            [
+              0,
+              1,
+              1637.3184814453125
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              96.1201171875
+            ],
+            [
+              0,
+              1,
+              77.3184814453125
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:67",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          6720
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 21
+    },
+    {
+      "id": "4:70",
+      "name": "22",
+      "row": "Row",
+      "skipped": false,
+      "notes": "What if I just fixed it myself? I tried with the smallest possible change, one line of text. I have very limited knowledge of actual engineering, but with Claude and a very, very patient team, I opened my first pull request. I remember being so happy when i finally pushed the change and asked my engineer to review. I happily went downstairs to get coffee i think and patted myself on the back ",
+      "text": [
+        {
+          "id": "4:73",
+          "text": "Fix.",
+          "x": 792.934814453125,
+          "y": 422.5902099609375
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          8880
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 22
+    },
+    {
+      "id": "4:76",
+      "name": "23",
+      "row": "Row",
+      "skipped": false,
+      "notes": "And this is what happened. What a great first attempt! I almost took down the entire app by writing one line of text. AI really does you super powers. \n\nSo this hasn't happened since, but I'm show this to let you all know that you guys have to start somewhere. And also find the right team to support you as you are exploring these new spaces, because you will definitely mess stuff up, so sometimes you'll need someone to hold your hand along the way, just like Ken did for me here. ",
+      "text": [],
+      "assets": [
+        {
+          "id": "27:94",
+          "name": "Screenshot 2026-11-10 at 4.33.28 PM 1",
+          "type": "IMAGE",
+          "hash": "3b5df52279927743fe73a5a99ebf034723b7bb27",
+          "x": 84,
+          "y": 96,
+          "width": 1752,
+          "height": 888,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              11124
+            ],
+            [
+              0,
+              1,
+              1656
+            ]
+          ],
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              84
+            ],
+            [
+              0,
+              1,
+              96
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:76",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          11040
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 23
+    },
+    {
+      "id": "4:92",
+      "name": "24",
+      "row": "Row",
+      "skipped": false,
+      "notes": "So I kept going. Here I updated the button styling for one of the buttons because it wasn't using the right theme tokens. I changed more copy again, fortunately without taking down the entire app. And I also did things like make the login screen more mobile-relevant, putting the more mobile-specific buttons up top.",
+      "text": [],
+      "assets": [
+        {
+          "id": "32:90",
+          "name": "theme-after.png",
+          "type": "IMAGE",
+          "hash": "d5d8adc4764f951863c3c67d8d7dc71c06aaeb43",
+          "x": -100,
+          "y": -100,
+          "width": 1220,
+          "height": 657,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              13196
+            ],
+            [
+              0,
+              1,
+              1550
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              -4
+            ],
+            [
+              0,
+              1,
+              -10
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "32:89",
+              "type": "FRAME",
+              "x": 96,
+              "y": 90,
+              "width": 1120,
+              "height": 420
+            },
+            {
+              "id": "4:92",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "32:92",
+          "name": "toast-after.png",
+          "type": "IMAGE",
+          "hash": "774ffd8cee430331c7faff89a82eb287f8af7b51",
+          "x": 0,
+          "y": 0,
+          "width": 1120,
+          "height": 436,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              6816
+            ],
+            [
+              0,
+              1,
+              2114
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              96
+            ],
+            [
+              0,
+              1,
+              554
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "32:91",
+              "type": "FRAME",
+              "x": 96,
+              "y": 554,
+              "width": 1120,
+              "height": 436
+            },
+            {
+              "id": "4:92",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "32:93",
+          "name": "PR 9078 · mobile login after",
+          "type": "IMAGE",
+          "hash": "ad99a535da01abfb0a89a53b34c52f8a375570b8",
+          "x": 1340,
+          "y": 90,
+          "width": 518,
+          "height": 900,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              14540
+            ],
+            [
+              0,
+              1,
+              1650
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              1340
+            ],
+            [
+              0,
+              1,
+              90
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:92",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          13200
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 24
+    },
+    {
+      "id": "4:114",
+      "name": "25",
+      "row": "Row",
+      "skipped": false,
+      "notes": "And then, somewhere along the line, I realised, why stop at fixing? Let's go to the next level, let's try to building things. \n",
+      "text": [
+        {
+          "id": "4:117",
+          "text": "Build.",
+          "x": 689.2489624023438,
+          "y": 422.5902099609375
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          15360
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 25
+    },
+    {
+      "id": "4:118",
+      "name": "26",
+      "row": "Row",
+      "skipped": false,
+      "notes": "I like research a lot, so I started by building research artefacts. I could express different concepts directly in code so it's clearer to the team what are the implications of different mental models on how we build. I know there are many scenarios in which a concept sketch or a static screen is a quick and dirty way to get feedback from people, but there's always a space for explicitly different high-fidelity concept prototypes too. \n\nFor example, when viewing results from a form, we would usually think about as a kind of spreadsheet, like what you saw earlier.  But we realised that there are many form creators who also act as the people approving requests. i wanted to make this difference in mental model explicit, so I also built a prototype of what it could be like if t was like an inbox? We aren't going down this route for now, but it helped to push how the team understood our user's mental models. ",
+      "text": [
+        {
+          "id": "32:4",
+          "text": "Spreadsheet",
+          "x": 72,
+          "y": 196
+        },
+        {
+          "id": "32:5",
+          "text": "Inbox",
+          "x": 984,
+          "y": 196
+        },
+        {
+          "id": "163:2",
+          "text": "Mental model: Data to be viewed",
+          "x": 315,
+          "y": 872
+        },
+        {
+          "id": "163:3",
+          "text": "Mental model: Cases to be handled",
+          "x": 1212,
+          "y": 872
+        }
+      ],
+      "assets": [
+        {
+          "id": "32:6",
+          "name": "Hawkeye · Spreadsheet exploration · Sep 2026",
+          "type": "IMAGE",
+          "hash": "1267f1647cfb258d3e39296ec834e15e6c0ff34d",
+          "x": 72,
+          "y": 304,
+          "width": 864,
+          "height": 540,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              17592
+            ],
+            [
+              0,
+              1,
+              1864
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              72
+            ],
+            [
+              0,
+              1,
+              304
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:118",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "32:7",
+          "name": "Hawkeye · Inbox exploration · Sep 2026",
+          "type": "IMAGE",
+          "hash": "5cf13b4fe0b5e73acea478e8b5eb75a97f53928c",
+          "x": 984,
+          "y": 304,
+          "width": 864,
+          "height": 540,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              18504
+            ],
+            [
+              0,
+              1,
+              1864
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              984
+            ],
+            [
+              0,
+              1,
+              304
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:118",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          17520
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 26
+    },
+    {
+      "id": "27:99",
+      "name": "27",
+      "row": "Row",
+      "skipped": false,
+      "notes": "I'm also currently working on some brand explorations for FormSG. Rather than exploring all these ideas in a silo, what if I created a working artefact to show the process of my landing page exploration, and having it as a life record? I created a living artefact that stored all the different variations of landing pages and logos. This helps the team see all the things that we decided to go with, the routes we didn't take and what we considered. ",
+      "text": [],
+      "assets": [
+        {
+          "id": "32:8",
+          "name": "Brand exploration · Living gallery · Aug 2026",
+          "type": "IMAGE",
+          "hash": "789361e3a863126d62380e9e4c9960435a74328a",
+          "x": 160,
+          "y": 40,
+          "width": 1600,
+          "height": 1000,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              19840
+            ],
+            [
+              0,
+              1,
+              1600
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              160
+            ],
+            [
+              0,
+              1,
+              40
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "27:99",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          19680
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 27
+    },
+    {
+      "id": "4:121",
+      "name": "28",
+      "row": "Row",
+      "skipped": false,
+      "notes": "And besides concepts and artefacts, I also shipped features that went straight to production, like building in certain interactions into cards, and features like an activity log for approval workflows. To be clear, I didn't start straight into doing this. In fact, it would feel rather intimidating, even with AI, to go straight into this. I slowly built up, tried something small, and went further, and further and further. \n\nI'm definitely still not an engineer, I'm just a designer who has a wider and deeper toolset. ",
+      "text": [
+        {
+          "id": "32:94",
+          "text": "Some of it shipped.",
+          "x": 96,
+          "y": 100
+        }
+      ],
+      "assets": [
+        {
+          "id": "32:95",
+          "name": "PR 9781 · sanitised click-to-edit after",
+          "type": "IMAGE",
+          "hash": "2a45ed99d8deae0db573fb00df4681b8759c96b4",
+          "x": 96,
+          "y": 330,
+          "width": 990,
+          "height": 580,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              21936
+            ],
+            [
+              0,
+              1,
+              1890
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              96
+            ],
+            [
+              0,
+              1,
+              330
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "4:121",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        {
+          "id": "32:97",
+          "name": "activity-after.png",
+          "type": "IMAGE",
+          "hash": "f0a5e2966be1143c08e7f85252dceac01d7a181c",
+          "x": -768,
+          "y": 0,
+          "width": 1440,
+          "height": 1000,
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              22222
+            ],
+            [
+              0,
+              1,
+              1650
+            ]
+          ],
+          "scaleMode": "FIT",
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "slideRelativeTransform": [
+            [
+              1,
+              0,
+              382
+            ],
+            [
+              0,
+              1,
+              90
+            ]
+          ],
+          "clipAncestors": [
+            {
+              "id": "32:96",
+              "type": "FRAME",
+              "x": 1150,
+              "y": 90,
+              "width": 674,
+              "height": 900
+            },
+            {
+              "id": "4:121",
+              "type": "SLIDE",
+              "x": 0,
+              "y": 0,
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      ],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          21840
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 28
+    },
+    {
+      "id": "4:127",
+      "name": "29",
+      "row": "Row",
+      "skipped": false,
+      "notes": "So. Two what-ifs. \n\nThe first what if was about going deeper into something I already liked. I knew what good looked like, I just needed help getting there in a shorter amount of time \n\nThe second what if was about exploring something I had never tried before. I didn't know what I didn't know, and learnt as I went, exploring this new space.\n\nBoth started as question, that evolved into the smallest try I could make. Both changed what kind of designer I am. ",
+      "text": [
+        {
+          "id": "33:40",
+          "text": "Go deeper. Try something new.",
+          "x": 120,
+          "y": 70
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          24000
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 29
+    },
+    {
+      "id": "4:135",
+      "name": "30",
+      "row": "Row",
+      "skipped": false,
+      "notes": "So here's my question for you. What kind of designer do you want to be?  The role of a designer is changing drastically, month by month, even week on week. More and more what ifs are popping up. Are these spaces you want to explore, do you even find them interesting? \n\nWhether you're just starting out or you've been doing this for twenty years, there's definitely a what-if somewhere in your head. And you won't answer it by thinking about it. You should take a step and try it. \n\n",
+      "text": [
+        {
+          "id": "4:138",
+          "text": "What kind of designer",
+          "x": 359.7370910644531,
+          "y": 398.2134094238281
+        },
+        {
+          "id": "4:139",
+          "text": "do you want to be?",
+          "x": 438.0224914550781,
+          "y": 539.5025024414062
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          26160
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 30
+    },
+    {
+      "id": "4:143",
+      "name": "31",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Try this.",
+      "text": [
+        {
+          "id": "4:146",
+          "text": "Try this.",
+          "x": 581.7708740234375,
+          "y": 422.5902099609375
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          28320
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 31
+    },
+    {
+      "id": "4:140",
+      "name": "32",
+      "row": "Row",
+      "skipped": false,
+      "notes": "Tonight, when you go home, pick one what-if off your list. Whether it's research you wish you had time for, or the thing in your product that bugs you. Spend half an hour on the smallest possible try. You can use AI, could also not, up to you. Just remember that what's important is that you give it a shot, and you don't even need to read the description first. \n\nThank you.",
+      "text": [
+        {
+          "id": "4:141",
+          "text": "Try for half an hour ",
+          "x": 132.1652069091797,
+          "y": 357.8062438964844
+        },
+        {
+          "id": "4:142",
+          "text": "tonight.",
+          "x": 132.1652069091797,
+          "y": 539.4676513671875
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          30480
+        ],
+        [
+          0,
+          1,
+          1560
+        ]
+      ],
+      "order": 32
+    },
+    {
+      "id": "32:10",
+      "name": "-",
+      "row": "Visual options · 10 Nov",
+      "skipped": true,
+      "notes": "I tried using AI to generate summaries and findings before, but I often found the outcomes to be unreliable, and I was unable to dig into the implicit assumptions the model was making around the raw qualitative data. It's hard to determine how the model go to the end outcomes from the raw data. I wanted to be able to break down the analysis to the smallest level of understanding. \n\n[Diagram that shows a circle with the word raw data and another with the circle final synthesis. the two circles are connected by an arrow. in the middle there is a question mark]",
+      "text": [
+        {
+          "id": "32:28",
+          "text": "Raw\ndata",
+          "x": 150,
+          "y": 395
+        },
+        {
+          "id": "32:29",
+          "text": "Final\nsynthesis",
+          "x": 1320,
+          "y": 395
+        },
+        {
+          "id": "32:30",
+          "text": "?",
+          "x": 845,
+          "y": 423
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          240
+        ],
+        [
+          0,
+          1,
+          3240
+        ]
+      ],
+      "order": 36
+    },
+    {
+      "id": "32:11",
+      "name": "-",
+      "row": "Visual options · 10 Nov",
+      "skipped": true,
+      "notes": "I tried using AI to generate summaries and findings before, but I often found the outcomes to be unreliable, and I was unable to dig into the implicit assumptions the model was making around the raw qualitative data. It's hard to determine how the model go to the end outcomes from the raw data. I wanted to be able to break down the analysis to the smallest level of understanding. \n\n[Diagram that shows a circle with the word raw data and another with the circle final synthesis. the two circles are connected by an arrow. in the middle there is a question mark]",
+      "text": [
+        {
+          "id": "32:37",
+          "text": "Raw\ndata",
+          "x": 150,
+          "y": 395
+        },
+        {
+          "id": "32:38",
+          "text": "Final\nsynthesis",
+          "x": 1320,
+          "y": 395
+        },
+        {
+          "id": "32:41",
+          "text": "?",
+          "x": 845,
+          "y": 423
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          2400
+        ],
+        [
+          0,
+          1,
+          3240
+        ]
+      ],
+      "order": 37
+    },
+    {
+      "id": "32:42",
+      "name": "-",
+      "row": "Visual options · 10 Nov",
+      "skipped": true,
+      "notes": "And this is where the problem showed up. The first synthesis looked great. Clean themes, confident sentences. And it was shallow. These tools are very, very good at making things look deep. Once you actually read it against the transcripts, you can see where it was fluffing So I pushed back. Which lines support this. Which participants. What's the counter-example. Over and over, the same interrogation I used to do by hand, except now I'm doing it to the model instead of to my own spreadsheet.",
+      "text": [
+        {
+          "id": "32:57",
+          "text": "What connects these findings?",
+          "x": 180,
+          "y": 85
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          4560
+        ],
+        [
+          0,
+          1,
+          3240
+        ]
+      ],
+      "order": 38
+    },
+    {
+      "id": "32:43",
+      "name": "-",
+      "row": "Visual options · 10 Nov",
+      "skipped": true,
+      "notes": "And this is where the problem showed up. The first synthesis looked great. Clean themes, confident sentences. And it was shallow. These tools are very, very good at making things look deep. Once you actually read it against the transcripts, you can see where it was fluffing So I pushed back. Which lines support this. Which participants. What's the counter-example. Over and over, the same interrogation I used to do by hand, except now I'm doing it to the model instead of to my own spreadsheet.",
+      "text": [
+        {
+          "id": "32:75",
+          "text": "Which line?",
+          "x": 180,
+          "y": 85
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          6720
+        ],
+        [
+          0,
+          1,
+          3240
+        ]
+      ],
+      "order": 39
+    },
+    {
+      "id": "32:84",
+      "name": "-",
+      "row": "Visual options · 10 Nov",
+      "skipped": true,
+      "notes": "A year ago I opened a pull request that deleted the repo. Now things I designed are in production because I built them. I'm not going to stand here and tell you I'm an engineer. I'm a designer who can get further than I used to before I need one. So. Two what-ifs. \n\nThe first what if was about going deeper into something I already liked. I knew what good looked like, I just needed help getting there in a shorter amount of time \n\nThe second what if was about exploring something I had never tried before. I didn't know what I didn't know, and learnt as I went, exploring this new space.\n\nBoth started as the smallest try I could make. Both changed what kind of designer I am. And I'm still figuring out what kind that is.",
+      "text": [
+        {
+          "id": "33:81",
+          "text": "Go deeper. Try something new.",
+          "x": 120,
+          "y": 70
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          8880
+        ],
+        [
+          0,
+          1,
+          3240
+        ]
+      ],
+      "order": 40
+    },
+    {
+      "id": "32:85",
+      "name": "-",
+      "row": "Visual options · 10 Nov",
+      "skipped": true,
+      "notes": "A year ago I opened a pull request that deleted the repo. Now things I designed are in production because I built them. I'm not going to stand here and tell you I'm an engineer. I'm a designer who can get further than I used to before I need one. So. Two what-ifs. \n\nThe first what if was about going deeper into something I already liked. I knew what good looked like, I just needed help getting there in a shorter amount of time \n\nThe second what if was about exploring something I had never tried before. I didn't know what I didn't know, and learnt as I went, exploring this new space.\n\nBoth started as the smallest try I could make. Both changed what kind of designer I am. And I'm still figuring out what kind that is.",
+      "text": [
+        {
+          "id": "33:108",
+          "text": "Go deeper. Try something new.",
+          "x": 120,
+          "y": 70
+        }
+      ],
+      "assets": [],
+      "interactive": [],
+      "width": 1920,
+      "height": 1080,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          11040
+        ],
+        [
+          0,
+          1,
+          3240
+        ]
+      ],
+      "order": 41
+    }
+  ],
+  "schemaVersion": 1,
+  "capturedAt": "2026-11-14T18:55:27.000Z",
+  "sourceUrl": "https://www.figma.com/slides/8CqcgYkpohVGMg2b9ag5FW",
+  "corrections": [
+    {
+      "nodeId": "4:157",
+      "before": "2016",
+      "after": "2015",
+      "status": "approved and applied upstream in Figma"
+    }
+  ]
+}

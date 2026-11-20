@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {normalizeDeck,validateSnapshot} from './source-lib.mjs';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
+const source=read('source/current.json'),bindings=read('source/asset-bindings.json');
+const errors=validateSnapshot(source,bindings,{assetExists:src=>src.startsWith('/assets/')&&fs.existsSync(path.join(root,'public',src)),layoutIds:Object.keys(read('source/layout-map.json')),contentContracts:read('source/content-contracts.json')});
+if(JSON.stringify(normalizeDeck(source,bindings))!==JSON.stringify(read('src/data/deck.json')))errors.push('Generated deck differs from source; regenerate through import-source');
+if(errors.length){console.error(errors.join('\n'));process.exitCode=1}else console.log(`Source verified: ${source.slides.length} retained, ${source.slides.filter(s=>!s.skipped).length} main, ${source.slides.filter(s=>!s.skipped).length} presentation slides; text and notes exact.`);

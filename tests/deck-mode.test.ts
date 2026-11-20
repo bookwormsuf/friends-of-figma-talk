@@ -1,0 +1,10 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {deckMode,selectDeck} from '../src/shell/deckMode.ts';
+import type {SlideData} from '../src/data/types.ts';
+const source=JSON.parse(readFileSync(new URL('../src/data/deck.json',import.meta.url),'utf8')) as SlideData[];
+const full=source.filter(s=>!s.skipped),ids=['3:2','3:47','28:111','4:118'],checkpoint=full.filter(s=>ids.includes(s.id));
+test('default audience and presenter routes use all32 main slides',()=>{for(const query of ['', '?view=presenter','?view=illustrations']){assert.equal(deckMode(query),'full');assert.equal(selectDeck(deckMode(query),full,checkpoint).length,32)}});
+test('historical checkpoint and its presenter retain four sourceordered slides',()=>{for(const query of ['?view=checkpoint','?view=presenter&deck=checkpoint']){assert.equal(deckMode(query),'checkpoint');assert.deepEqual(selectDeck(deckMode(query),full,checkpoint).map(s=>s.id),ids)}});
+test('full presentation notes remain the source notes for every selected slide',()=>{const result=selectDeck('full',full,checkpoint);for(const slide of result){assert.equal(slide.notes,source.find(s=>s.id===slide.id)?.notes);assert.ok(slide.notes.length>0,`slide ${slide.id} has no notes`);assert.equal(slide.skipped,false)}});

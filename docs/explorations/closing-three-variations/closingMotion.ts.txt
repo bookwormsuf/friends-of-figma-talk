@@ -1,0 +1,137 @@
+/** Motion for the closing animation on slide 4:140. Pure: same inputs, same poses. See docs/closing-animation-spec.md.
+ * One number, p, runs the whole thing. 0 is the slide's words alone. 0 to 1 is press one: the words leave, the swarm rises, parts into a ring and the centre cloud glows.
+ * 1 to 2 is press two: the centre cloud reshapes into a spark and the spark glows. Going back is the same function with p running down. */
+export type ClosingVariation=1|2|3;
+export type ClosingSize=1|2|3;
+/** Every timing and size for the closing animation lives here. Positions and widths are stage percent.
+ * In editor mode (?editor) the dial panel in Closing.tsx writes into this object, so the values below are the defaults. */
+export const closingConfig:ClosingConfig={
+ /** Clouds other than the centre one. */
+ others:21,
+ /** Widths as a share of stage width: the small clouds, and the centre cloud and spark. */
+ sizes:{1:{small:7,centre:11},2:{small:9,centre:14},3:{small:11,centre:19}},
+ /** Seconds for press one and press two, per variation: 1 calm, 2 energetic, 3 playful. */
+ seconds:{1:[7,4],2:[4,1.5],3:[5.5,3]},
+ /** The ring the other clouds settle on. x is percent of stage width, y of stage height. Clouds alternate between an inner and an outer lane, as shares of that radius, so neighbours never bunch up. */
+ ring:{x:39,y:39,inner:.84,outer:1.1},
+ /** How far below their swarm spot the clouds start, in percent of stage height. */
+ riseFrom:95,
+ /** The share of press one the words take to float off the top. The clouds start rising as they go.*/
+ wordsLeave:.15,
+ /** The spark's height over its width. Below 1 makes it a slightly wide oval. */
+ sparkAspect:.8,
+ /** How small the centre shape gets when it is a blob, halfway through the reshape, as a share of its full width. */
+ blob:.5,
+ /** How wide the glow spreads, 0 to 1 of the stage, for the cloud and for the spark. */
+ spread:{cloud:.5,spark:1},
+ /** Editor only: widths that replace the size option while the dials are open. Null everywhere else. */
+ widths:null,
+ /** Editor only: plays everything faster (above 1) or slower. */
+ speed:1,
+};
+export type ClosingConfig={others:number;sizes:Record<ClosingSize,{small:number;centre:number}>;seconds:Record<ClosingVariation,[number,number]>;ring:{x:number;y:number;inner:number;outer:number};riseFrom:number;wordsLeave:number;sparkAspect:number;blob:number;spread:{cloud:number;spark:number};widths:{small:number;centre:number}|null;speed:number};
+/** The widths in use: the dials' own while the editor is open, otherwise the chosen size. */
+export const closingWidths=(size:ClosingSize)=>closingConfig.widths??closingConfig.sizes[size];
+export type CloudPose={x:number;y:number;rotation:number;scale:number;visible:boolean};
+export type ClosingState={
+ /** 0 the words are in place, 1 they have floated off the top. */
+ words:number;
+ others:CloudPose[];
+ /** The centre object. x, y and width are stage percent. reshape runs 0 cloud, 0.5 small round blob, 1 spark. stagger above 0 makes the points come out one after another. */
+ centre:{x:number;y:number;width:number;reshape:number;stagger:number;rotation:number;visible:boolean};
+ /** cloud and spark are how strongly each colour glows. spread is how wide the glow reaches, 0 to 1 of the stage. */
+ glow:{cloud:number;spark:number;spread:number};
+ /** 0 to 1: how much warm light from the spark falls on the ring. */
+ tint:number;
+};
+const clamp01=(v:number)=>Math.max(0,Math.min(1,v));
+const smooth=(t:number)=>t*t*t*(t*(t*6-15)+10);
+const mix=(a:number,b:number,k:number)=>a+(b-a)*k;
+const span=(p:number,a:number,b:number)=>clamp01((p-a)/(b-a));
+const easeOut=(t:number)=>1-(1-t)**3;
+const easeIn=(t:number)=>t*t*t;
+/** Overshoots a little before settling. */
+const back=(t:number)=>t>=1?1:t<=0?0:1+2.6*(t-1)**3+1.6*(t-1)**2;
+/** Lands, bounces twice, settles. */
+const bounce=(t:number)=>{if(t>=1)return 1;if(t<=0)return 0;const n=7.5625,d=2.75;if(t<1/d)return n*t*t;if(t<2/d){const u=t-1.5/d;return n*u*u+.75}if(t<2.5/d){const u=t-2.25/d;return n*u*u+.9375}const u=t-2.625/d;return n*u*u+.984375};
+/** 0 to 1 in two eased halves with a rest in the middle, so the blob at 0.5 is seen before the spark comes out. */
+const viaBlob=(t:number)=>t<.5?.5*smooth(t*2):.5+.5*smooth(t*2-1);
+/** Stable 0 to 1 number for cloud i and purpose k. */
+const rnd=(i:number,k:number)=>{const s=Math.sin(i*127.1+k*311.7)*43758.5453;return s-Math.floor(s)};
+const TAU=Math.PI*2,GOLDEN=2.399963;
+/** Where each cloud sits in the swarm and on the ring. The swarm is a loose spiral with no outline. Each cloud's ring spot is straight out from its swarm spot, so paths do not cross. */
+function spots(size:ClosingSize){
+ const n=closingConfig.others,small=closingWidths(size).small;
+ // Swarm radius grows with the clouds, so they overlap about the same amount at every size. y is stretched by 16:9 so the swarm is round on screen.
+ const rx=small*1.15*Math.sqrt(n/13),ry=rx*16/9;
+ const angles=Array.from({length:n},(_,i)=>(i*GOLDEN+.6)%TAU);
+ const order=angles.map((a,i)=>[a,i] as const).sort((a,b)=>a[0]-b[0]).map(([,i])=>i);
+ const rank=new Array<number>(n);order.forEach((i,r)=>{rank[i]=r});
+ return angles.map((a,i)=>{
+  const r=Math.sqrt((i+.35)/n);
+  const ringAngle=(rank[i]+.5)/n*TAU+(rnd(i,1)-.5)*.08,reach=(rank[i]%2?closingConfig.ring.inner:closingConfig.ring.outer)+(rnd(i,2)-.5)*.05;
+  return{
+   swarm:{x:50+Math.cos(a)*r*rx,y:50+Math.sin(a)*r*ry},
+   ring:{x:50+Math.cos(ringAngle)*closingConfig.ring.x*reach,y:50+Math.sin(ringAngle)*closingConfig.ring.y*reach},
+   rank:rank[i],
+   lean:(rnd(i,3)-.5)*.5,
+  };
+ });
+}
+// Worked out once per arrangement. The key holds everything the spots depend on, so a dial change rebuilds them.
+let spotKey='',spotList:ReturnType<typeof spots>=[];
+const spotsOf=(size:ClosingSize)=>{const r=closingConfig.ring,key=[closingConfig.others,closingWidths(size).small,r.x,r.y,r.inner,r.outer].join('|');if(key!==spotKey){spotList=spots(size);spotKey=key}return spotList};
+/** Everything on stage at p. */
+export function closingState(v:ClosingVariation,size:ClosingSize,p:number):ClosingState{
+ const u=clamp01(p),q=clamp01(p-1),S=closingWidths(size);
+ const all=spotsOf(size);
+ // Press one, beat by beat. Each variation has its own windows and easing.
+ const words=easeIn(span(u,0,closingConfig.wordsLeave));
+ const others:CloudPose[]=all.map((s,i)=>{
+  // Rise: from below the stage to the swarm.
+  const riseStart=.07+rnd(i,4)*(v===3?.14:.1),riseEnd=riseStart+(v===1?.34:v===2?.24:.3);
+  const rt=span(u,riseStart,riseEnd),rise=v===1?smooth(rt):v===2?easeOut(rt):back(rt);
+  // Part: from the swarm out to the ring.
+  let part:number,squeeze=0;
+  if(v===1){const a=.52+s.rank*.006;part=smooth(span(u,a,a+.3))}
+  else if(v===2){squeeze=smooth(span(u,.46,.55))*(1-span(u,.55,.6));part=back(span(u,.55,.72))}
+  else{const a=.5+s.rank*.02;part=bounce(span(u,a,a+.16))}
+  // Energetic pulls the swarm in tight for a moment before it is pushed out.
+  const sx=mix(s.swarm.x,50,squeeze*.35),sy=mix(s.swarm.y,50,squeeze*.35);
+  const x=mix(mix(sx+(sx-50)*.5,sx,rise),s.ring.x,part);
+  const y=mix(mix(sy+closingConfig.riseFrom,sy,rise),s.ring.y,part);
+  return{x,y,rotation:s.lean*(1-rise)+s.lean*.35*part,scale:mix(1,.92,clamp01(part)),visible:rt>0};
+ });
+ // The centre cloud rises with the swarm, hidden behind it, then grows once the others part.
+ const centreRise=v===1?smooth(span(u,.07,.42)):v===2?easeOut(span(u,.06,.3)):back(span(u,.08,.38));
+ const grow=v===1?smooth(span(u,.56,.84)):v===2?back(span(u,.58,.74)):back(span(u,.74,.9));
+ // Press two: the reshape, with each variation's own character.
+ let reshape:number,stagger=0,rotation=0,swell=1;
+ if(v===1){reshape=viaBlob(span(q,.02,.7))}
+ // Energetic: collapses to the blob, then the spark pops out a little too big before settling.
+ else if(v===2){reshape=viaBlob(span(q,.06,.5));swell=1+.2*Math.sin(Math.PI*span(q,.44,.8))}
+ else{reshape=viaBlob(span(q,.06,.8));stagger=q>0&&q<1?.6:0;const fade=1-span(q,0,.78);rotation=Math.sin(q*TAU*3.5)*.2*fade*span(q,0,.06);swell=1+Math.sin(q*TAU*5)*.07*fade*span(q,0,.06)}
+ const cloudGlowIn=v===1?smooth(span(u,.8,1)):v===2?back(span(u,.72,.92)):back(span(u,.86,1));
+ // As the shape turns, the cloud's colour hands over to the spark's.
+ const warm=q<=0?0:v===2?easeOut(span(q,.24,.52)):smooth(span(q,.3,.75));
+ const sparkGlowIn=q<=0?0:v===1?smooth(span(q,.55,1)):v===2?back(span(q,.44,.86)):back(span(q,.72,1));
+ const glowSpread=mix(mix(.15,closingConfig.spread.cloud,cloudGlowIn),closingConfig.spread.spark,sparkGlowIn);
+ return{
+  words,
+  others,
+  centre:{x:50,y:mix(50+closingConfig.riseFrom,50,centreRise),width:mix(S.small,S.centre,grow)*swell*(1-(1-closingConfig.blob)*Math.sin(Math.PI*reshape)**2),reshape,stagger,rotation,visible:centreRise>0},
+  glow:{cloud:cloudGlowIn*(1-warm),spark:q<=0?0:Math.max(warm*.55,sparkGlowIn),spread:glowSpread},
+  tint:clamp01(sparkGlowIn),
+ };
+}
+/** Moves p towards the step the presenter is on. delta is seconds since the last frame. Never a subtraction from a global clock.
+ * If the presenter presses again before a press has finished, p hurries through what is left of it. */
+export function advanceClosing(p:number,step:number,delta:number,v:ClosingVariation):number{
+ const to=Math.max(0,Math.min(2,step));if(p===to)return p;
+ const d=Math.min(Number.isFinite(delta)?Math.max(0,delta):0,.05),[one,two]=closingConfig.seconds[v];
+ const forward=to>p,inPressOne=forward?p<1:p<=1,hurry=Math.abs(to-p)>1?4:1;
+ const rate=hurry*Math.max(.05,closingConfig.speed)/(inPressOne?one:two);
+ // Stop at the boundary between the two presses for one frame, so each side runs at its own speed.
+ const limit=forward?(p<1?Math.min(to,1):to):(p>1?Math.max(to,1):to);
+ return forward?Math.min(limit,p+d*rate):Math.max(limit,p-d*rate);
+}

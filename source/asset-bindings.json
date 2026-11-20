@@ -1,0 +1,2262 @@
+{
+  "32:6": {
+    "src": "/assets/slide-29-spreadsheet.png",
+    "alt": "Hawkeye spreadsheet exploration",
+    "sourceAsset": {
+      "id": "32:6",
+      "name": "Hawkeye · Spreadsheet exploration · Sep 2026",
+      "type": "IMAGE",
+      "hash": "1267f1647cfb258d3e39296ec834e15e6c0ff34d",
+      "x": 72,
+      "y": 304,
+      "width": 864,
+      "height": 540,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          17592
+        ],
+        [
+          0,
+          1,
+          1864
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          72
+        ],
+        [
+          0,
+          1,
+          304
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:118",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "exportNodeId": "32:6",
+    "exportKind": "image-node-crop",
+    "sha256": "38e8553a4c1d6f185a51fe6794f041cb7947419d84df0f05dfd7d19bf95ad59f",
+    "exportedWidth": 864,
+    "exportedHeight": 540
+  },
+  "32:7": {
+    "src": "/assets/slide-29-inbox.png",
+    "alt": "Hawkeye inbox exploration",
+    "sourceAsset": {
+      "id": "32:7",
+      "name": "Hawkeye · Inbox exploration · Sep 2026",
+      "type": "IMAGE",
+      "hash": "5cf13b4fe0b5e73acea478e8b5eb75a97f53928c",
+      "x": 984,
+      "y": 304,
+      "width": 864,
+      "height": 540,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          18504
+        ],
+        [
+          0,
+          1,
+          1864
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          984
+        ],
+        [
+          0,
+          1,
+          304
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:118",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "exportNodeId": "32:7",
+    "exportKind": "image-node-crop",
+    "sha256": "7b43cccd2960294b52ac249bd21d3a7aa64e3a15086a3d4d4de0be28eb3e7f8a",
+    "exportedWidth": 864,
+    "exportedHeight": 540
+  },
+  "9:10": {
+    "src": "/assets/slide-02-9-10.png",
+    "alt": "OGP hackathon team group photo",
+    "exportNodeId": "3:11",
+    "exportKind": "clipped-viewport",
+    "sourceAsset": {
+      "id": "9:10",
+      "name": "DSC_8407 1",
+      "type": "IMAGE",
+      "hash": "fa354a5eea08a583513b31d16fd859fbf0da50cb",
+      "x": 0,
+      "y": -21,
+      "width": 1920,
+      "height": 1280.15625,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          2400
+        ],
+        [
+          0,
+          1,
+          219
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          -21
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "3:11",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "8fc04b2c2f6d1d131f08372afb65df49f9ab2c3e72dee7ff64e19940c1159a79",
+    "exportedWidth": 1920,
+    "exportedHeight": 1080
+  },
+  "10:34": {
+    "src": "/assets/slide-04-10-34.png",
+    "alt": "University dance performance",
+    "exportNodeId": "10:34",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "10:34",
+      "name": "image 1",
+      "type": "IMAGE",
+      "hash": "95aa15ce6c33f35bed8f8d7ea7c56fd44a8fde58",
+      "x": 225,
+      "y": 3,
+      "width": 1527,
+      "height": 1073.671875,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          6945
+        ],
+        [
+          0,
+          1,
+          243
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          225
+        ],
+        [
+          0,
+          1,
+          3
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "3:19",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "0f1f6a8a999b518431891f5cce3e18f4eb84e77e5c5ebe6a021a0b729c895222",
+    "exportedWidth": 1527,
+    "exportedHeight": 1074
+  },
+  "27:43": {
+    "src": "/assets/slide-05-27-43.png",
+    "alt": "University newspaper reference",
+    "exportNodeId": "27:43",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:43",
+      "name": "Screenshot 2026-11-10 at 3.59.05 PM 1",
+      "type": "IMAGE",
+      "hash": "161b1e12496c9ce0c9cd599b68c1f83374da303e",
+      "x": 983,
+      "y": 131,
+      "width": 937,
+      "height": 818,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          7703
+        ],
+        [
+          0,
+          1,
+          371
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          983
+        ],
+        [
+          0,
+          1,
+          131
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "3:19",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "353ef09645ce3d95581e4ffe41c40f657b67827134df7fdf1b42929f20c0097b",
+    "exportedWidth": 937,
+    "exportedHeight": 818
+  },
+  "27:44": {
+    "src": "/assets/slide-06-27-44.png",
+    "alt": "University consulting club reference",
+    "exportNodeId": "27:44",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:44",
+      "name": "2026-11-10 16.01.20 1",
+      "type": "IMAGE",
+      "hash": "b83482a38f031f6949cf63686fc791d66b19705a",
+      "x": 400,
+      "y": 200,
+      "width": 1235.03515625,
+      "height": 824,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          7120
+        ],
+        [
+          0,
+          1,
+          440
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          400
+        ],
+        [
+          0,
+          1,
+          200
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "3:19",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "8e873c33c7b1679b7760a0502cf75ecd7faac5c584e456e5807fc722477eeddb",
+    "exportedWidth": 1236,
+    "exportedHeight": 824
+  },
+  "27:53": {
+    "src": "/assets/slide-13-27-53.png",
+    "alt": "Undergraduate thesis reference",
+    "exportNodeId": "27:53",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:53",
+      "name": "2026-11-10 16.14.26 1",
+      "type": "IMAGE",
+      "hash": "33c4ac8f4da6490836e7bee1ddef69d83ab4c043",
+      "x": 548,
+      "y": 128,
+      "width": 824,
+      "height": 824,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          26708
+        ],
+        [
+          0,
+          1,
+          368
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          548
+        ],
+        [
+          0,
+          1,
+          128
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:46",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "85f9814ab51e4644c5a67507d1dfa5b6e86aeafc730f835764a9f277942f3884",
+    "exportedWidth": 824,
+    "exportedHeight": 824
+  },
+  "27:63": {
+    "src": "/assets/slide-14-27-63.png",
+    "alt": "FormSG team member portrait 1",
+    "exportNodeId": "27:63",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:63",
+      "name": "image 2",
+      "type": "IMAGE",
+      "hash": "287a42609c7a22008184f58d198ac831aee54bf9",
+      "x": 423,
+      "y": 128,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          28743
+        ],
+        [
+          0,
+          1,
+          368
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          423
+        ],
+        [
+          0,
+          1,
+          128
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "a40a78bd4c878506879c8d1b588f10706e8c4d6033da360bff7d191a97cbaeae",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:70": {
+    "src": "/assets/slide-14-27-70.png",
+    "alt": "FormSG team member portrait 2",
+    "exportNodeId": "27:70",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:70",
+      "name": "image 5",
+      "type": "IMAGE",
+      "hash": "3095e7d30bc726e6ecf9942646ed25ddeacb3c36",
+      "x": 126,
+      "y": 690,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          28446
+        ],
+        [
+          0,
+          1,
+          930
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          126
+        ],
+        [
+          0,
+          1,
+          690
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "533142617567c71c6e9f11beeccf5c1771362b66e36014e6cb45a837a9a25a31",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:89": {
+    "src": "/assets/slide-14-27-89.png",
+    "alt": "FormSG team member portrait 3",
+    "exportNodeId": "27:89",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:89",
+      "name": "image 11",
+      "type": "IMAGE",
+      "hash": "c48b7988ccf7ec1969d2519bf7349f8a39f4b013",
+      "x": 423,
+      "y": 690,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          28743
+        ],
+        [
+          0,
+          1,
+          930
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          423
+        ],
+        [
+          0,
+          1,
+          690
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "55d7d223000b595ffd1f9d7fa00287c6410492046a275dc8fe4bc3ab96a9a934",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:91": {
+    "src": "/assets/slide-14-27-91.png",
+    "alt": "FormSG team member portrait 4",
+    "exportNodeId": "27:91",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:91",
+      "name": "image 12",
+      "type": "IMAGE",
+      "hash": "8a9eb2295d4e9bb5cdab01d31fd4d43e6e12d8bb",
+      "x": 720,
+      "y": 690,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          29040
+        ],
+        [
+          0,
+          1,
+          930
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          720
+        ],
+        [
+          0,
+          1,
+          690
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "2275979d02e9c9459c5cf684421b9563b9ef18f8bccf521bd3238d5d1623c538",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:66": {
+    "src": "/assets/slide-14-27-66.png",
+    "alt": "FormSG team member portrait 5",
+    "exportNodeId": "27:66",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:66",
+      "name": "image 3",
+      "type": "IMAGE",
+      "hash": "5f99ccb4d5e55b52d112a757ce318604b35cf0df",
+      "x": 126,
+      "y": 128,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          28446
+        ],
+        [
+          0,
+          1,
+          368
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          126
+        ],
+        [
+          0,
+          1,
+          128
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "7ad279074a03ac84b4bcea1551788a1ff77084db7d7077aef1b553c106d66416",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:75": {
+    "src": "/assets/slide-14-27-75.png",
+    "alt": "FormSG team member portrait 6",
+    "exportNodeId": "27:75",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:75",
+      "name": "image 6",
+      "type": "IMAGE",
+      "hash": "8e67f9f8b5408a875346694e682985670a7092cb",
+      "x": 126,
+      "y": 409,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          28446
+        ],
+        [
+          0,
+          1,
+          649
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          126
+        ],
+        [
+          0,
+          1,
+          409
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "fac777115e3992a4925758a6944b9bb0e554d5c5f684f5da24e31393f9a9a3e5",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:77": {
+    "src": "/assets/slide-14-27-77.png",
+    "alt": "FormSG team member portrait 7",
+    "exportNodeId": "27:77",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:77",
+      "name": "image 7",
+      "type": "IMAGE",
+      "hash": "9a5d9155e905bfea7740bb26cf177a66de8fd183",
+      "x": 423,
+      "y": 409,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          28743
+        ],
+        [
+          0,
+          1,
+          649
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          423
+        ],
+        [
+          0,
+          1,
+          409
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "74bc775723bbca082486079f164cb1cbce266c2773f4c4f7be13e7bf97ca65fc",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:79": {
+    "src": "/assets/slide-14-27-79.png",
+    "alt": "FormSG team member portrait 8",
+    "exportNodeId": "27:79",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:79",
+      "name": "image 8",
+      "type": "IMAGE",
+      "hash": "915565885e296a08373f5317be551bacfd606901",
+      "x": 720,
+      "y": 409,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          29040
+        ],
+        [
+          0,
+          1,
+          649
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          720
+        ],
+        [
+          0,
+          1,
+          409
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "d9bdf9c7c636968a8ecdfad76736931b02ea8e45cb36e2da0169b6b49a2232cf",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:81": {
+    "src": "/assets/slide-14-27-81.png",
+    "alt": "FormSG team member portrait 9",
+    "exportNodeId": "27:81",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:81",
+      "name": "image 9",
+      "type": "IMAGE",
+      "hash": "61bfc46a2b2c562dd4138d9db67cb70a990a725e",
+      "x": 1017,
+      "y": 409,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          29337
+        ],
+        [
+          0,
+          1,
+          649
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          1017
+        ],
+        [
+          0,
+          1,
+          409
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "79ea5f2fb363b339e251dfd79d56f1cb2a3f8d7c6a228cf2b316023b424a912c",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "27:83": {
+    "src": "/assets/slide-14-27-83.png",
+    "alt": "FormSG team member portrait 10",
+    "exportNodeId": "27:83",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:83",
+      "name": "image 10",
+      "type": "IMAGE",
+      "hash": "d3263cbd67638f65efba5971083af6ee59a31915",
+      "x": 1314,
+      "y": 409,
+      "width": 194,
+      "height": 194,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          29634
+        ],
+        [
+          0,
+          1,
+          649
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          1314
+        ],
+        [
+          0,
+          1,
+          409
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:55",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "7950bdf47aaa12150f19482bea3c9b4d5761141547cec6c89726d6ba14571652",
+    "exportedWidth": 194,
+    "exportedHeight": 194
+  },
+  "28:109": {
+    "src": "/assets/slide-12-notes-redacted.png",
+    "alt": "Research notes about signatures and authentication",
+    "exportNodeId": "28:109",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "28:109",
+      "name": "Screenshot 2026-11-10 at 4.58.35 PM 1",
+      "type": "IMAGE",
+      "hash": "2544ae130858a589544cf598c11f3919d6046ed8",
+      "x": 0,
+      "y": 106,
+      "width": 1915.5223388671875,
+      "height": 868,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          30480
+        ],
+        [
+          0,
+          1,
+          346
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          106
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:19",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "c785dc73827e48496c906555a0da9cdf6aec4e0c49e4e748df7ce85b0a6933fb",
+    "exportedWidth": 1916,
+    "exportedHeight": 868,
+    "presentationImageReason": "User asked on 2026-11-11 to blur the agency names in the Name column for the public deck; same crop and dimensions as the Figma export, names pixelated then blurred. The unredacted export was removed from public/. Figma asset and hash unchanged."
+  },
+  "28:114": {
+    "src": "/assets/slide-17-28-114.png",
+    "alt": "AI-assisted interview transcript tagging",
+    "exportNodeId": "4:40",
+    "exportKind": "clipped-viewport",
+    "sourceAsset": {
+      "id": "28:114",
+      "name": "Screenshot 2026-11-10 at 5.02.21 PM 1",
+      "type": "IMAGE",
+      "hash": "8ccbec770c9f6fef483ebec1d05838e654f68ad3",
+      "x": 249,
+      "y": 0,
+      "width": 1421,
+      "height": 1351.11474609375,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          35049
+        ],
+        [
+          0,
+          1,
+          240
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          249
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:40",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "65a27d30068eeac184ade47c1e65f27a33ec40b26160662849db85335058d49d",
+    "presentationImageReason": "User asked on 2026-11-20 to blur the agency name in one example quote for the public deck; same crop and dimensions as the Figma export, the name pixelated then blurred. Figma asset and source hash unchanged.",
+    "exportedWidth": 1920,
+    "exportedHeight": 1080,
+    "presentationCrop": {
+      "x": 249,
+      "y": 0,
+      "width": 1421,
+      "height": 1080,
+      "sourceWidth": 1920,
+      "sourceHeight": 1080
+    },
+    "presentationCropReason": "User approved removing exported black sidebars on 2026-11-10. Bounds are the intersection of image node 28:114 with slide 4:40. Original PNG, source geometry, vertical clipping and hash remain unchanged."
+  },
+  "4:62": {
+    "src": "/assets/results-2020.png",
+    "alt": "FormSG results page in 2020, response table from PR 71",
+    "exportNodeId": "4:62",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "4:62",
+      "name": "Image · assets/builder-2020.png",
+      "type": "IMAGE",
+      "hash": "0de54a663d508a4847da345c5298f13eb563de37",
+      "x": 96.12016296386719,
+      "y": 77.3185043334961,
+      "width": 1727.759521484375,
+      "height": 865.081298828125,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          2496.1201171875
+        ],
+        [
+          0,
+          1,
+          1637.3184814453125
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          96.1201171875
+        ],
+        [
+          0,
+          1,
+          77.3184814453125
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:61",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "cdb97ed3a485d1c710f6f2699e855811c66c78d3d0e9e234023dcd012896a08f",
+    "exportedWidth": 2695,
+    "exportedHeight": 938,
+    "presentationImageReason": "User replaced the builder screenshot with a results-page capture from FormSG PR #71 on 2026-11-11; source geometry, Figma asset and hash unchanged."
+  },
+  "4:65": {
+    "src": "/assets/results-2024.png",
+    "alt": "FormSG results page before the 2026 redesign: Responses and Feedback tabs over a plain responses table",
+    "exportNodeId": "4:65",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "4:65",
+      "name": "Image · assets/builder-2024.png",
+      "type": "IMAGE",
+      "hash": "13c44dd4de952ad9b17a2ee04f3b7c0b6fd49fef",
+      "x": 96.12016296386719,
+      "y": 77.3185043334961,
+      "width": 1727.759521484375,
+      "height": 865.081298828125,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          4656.1201171875
+        ],
+        [
+          0,
+          1,
+          1637.3184814453125
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          96.1201171875
+        ],
+        [
+          0,
+          1,
+          77.3184814453125
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:64",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "7346c509471425561eba375f587380b7689dd72ee817c0286b071cc299866b2f",
+    "exportedWidth": 1440,
+    "exportedHeight": 900,
+    "presentationImageReason": "User chose the before capture from the FormSG screenshots branch folder results-side-nav-and-drawer (committed 2026-09-30) as the pre-redesign era image on 2026-11-11; source geometry, Figma asset and hash unchanged."
+  },
+  "4:68": {
+    "src": "/assets/results-2026.jpg",
+    "alt": "FormSG results page in November 2026: V2 responses table with workflow status, filter, sort and columns",
+    "exportNodeId": "4:68",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "4:68",
+      "name": "Image · assets/builder-2026.png",
+      "type": "IMAGE",
+      "hash": "271ffc99fa95cb13078551d63f78dc66b7664a00",
+      "x": 96.12016296386719,
+      "y": 77.3185043334961,
+      "width": 1727.759521484375,
+      "height": 865.081298828125,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          6816.1201171875
+        ],
+        [
+          0,
+          1,
+          1637.3184814453125
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          96.1201171875
+        ],
+        [
+          0,
+          1,
+          77.3184814453125
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:67",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "fa36ba31e23cf387e4ed652f97a6044fefe03f427e7c6364735729548d5e1cf9",
+    "exportedWidth": 3024,
+    "exportedHeight": 1708,
+    "presentationCropReason": "Trim the browser window frame and URL bar from the PR #10516 capture; the FormSG page itself is untouched.",
+    "presentationImageReason": "User replaced the builder screenshot with the newest results-page capture from FormSG PR #10516 (merged 2026-11-06) on 2026-11-11; source geometry, Figma asset and hash unchanged.",
+    "presentationCrop": {
+      "x": 14,
+      "y": 100,
+      "width": 2996,
+      "height": 1596,
+      "sourceWidth": 3024,
+      "sourceHeight": 1708
+    }
+  },
+  "27:94": {
+    "src": "/assets/slide-26-27-94.png",
+    "alt": "First pull request and engineer response",
+    "exportNodeId": "27:94",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "27:94",
+      "name": "Screenshot 2026-11-10 at 4.33.28 PM 1",
+      "type": "IMAGE",
+      "hash": "3b5df52279927743fe73a5a99ebf034723b7bb27",
+      "x": 84,
+      "y": 96,
+      "width": 1752,
+      "height": 888,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          11124
+        ],
+        [
+          0,
+          1,
+          1656
+        ]
+      ],
+      "scaleMode": "FILL",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          84
+        ],
+        [
+          0,
+          1,
+          96
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:76",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "07729a722f046b2eaadd0fa5f04257335a0e18a13017c20427f3e263b314ae66",
+    "exportedWidth": 1752,
+    "exportedHeight": 888
+  },
+  "32:90": {
+    "src": "/assets/slide-27-32-90.png",
+    "alt": "Small product fix screenshot",
+    "exportNodeId": "32:89",
+    "exportKind": "clipped-viewport",
+    "sourceAsset": {
+      "id": "32:90",
+      "name": "theme-after.png",
+      "type": "IMAGE",
+      "hash": "d5d8adc4764f951863c3c67d8d7dc71c06aaeb43",
+      "x": -100,
+      "y": -100,
+      "width": 1220,
+      "height": 657,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          13196
+        ],
+        [
+          0,
+          1,
+          1550
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          -4
+        ],
+        [
+          0,
+          1,
+          -10
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "32:89",
+          "type": "FRAME",
+          "x": 96,
+          "y": 90,
+          "width": 1120,
+          "height": 420
+        },
+        {
+          "id": "4:92",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "462fd5a7405c3578d01cb02e215eddc4e69b12ea3f24e2a04ac0a160a1142b34",
+    "exportedWidth": 1120,
+    "exportedHeight": 420
+  },
+  "32:92": {
+    "src": "/assets/slide-27-32-92.png",
+    "alt": "Toast after opening a form",
+    "exportNodeId": "32:91",
+    "exportKind": "clipped-viewport",
+    "sourceAsset": {
+      "id": "32:92",
+      "name": "toast-after.png",
+      "type": "IMAGE",
+      "hash": "774ffd8cee430331c7faff89a82eb287f8af7b51",
+      "x": 0,
+      "y": 0,
+      "width": 1120,
+      "height": 436,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          6816
+        ],
+        [
+          0,
+          1,
+          2114
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          96
+        ],
+        [
+          0,
+          1,
+          554
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "32:91",
+          "type": "FRAME",
+          "x": 96,
+          "y": 554,
+          "width": 1120,
+          "height": 436
+        },
+        {
+          "id": "4:92",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "242d147e185f5af8933457fea174069c13eb1be02092c70c817f6e21395e2212",
+    "exportedWidth": 1120,
+    "exportedHeight": 436
+  },
+  "32:93": {
+    "src": "/assets/slide-27-32-93.png",
+    "alt": "Small product fix screenshot",
+    "exportNodeId": "32:93",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "32:93",
+      "name": "PR 9078 · mobile login after",
+      "type": "IMAGE",
+      "hash": "ad99a535da01abfb0a89a53b34c52f8a375570b8",
+      "x": 1340,
+      "y": 90,
+      "width": 518,
+      "height": 900,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          14540
+        ],
+        [
+          0,
+          1,
+          1650
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          1340
+        ],
+        [
+          0,
+          1,
+          90
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:92",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "65849522325e6a5594e80817d82af611dc5b5c2a64facd92fa6d68ac1d988333",
+    "exportedWidth": 518,
+    "exportedHeight": 900
+  },
+  "32:8": {
+    "src": "/assets/slide-30-32-8.png",
+    "alt": "FormSG brand exploration living gallery",
+    "exportNodeId": "32:8",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "32:8",
+      "name": "Brand exploration · Living gallery · Aug 2026",
+      "type": "IMAGE",
+      "hash": "789361e3a863126d62380e9e4c9960435a74328a",
+      "x": 160,
+      "y": 40,
+      "width": 1600,
+      "height": 1000,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          19840
+        ],
+        [
+          0,
+          1,
+          1600
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          160
+        ],
+        [
+          0,
+          1,
+          40
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "27:99",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "a52532a16339ea2af1fee613e060dfa9bf8d0efe96e716f77975233f742f4658",
+    "exportedWidth": 1600,
+    "exportedHeight": 1000
+  },
+  "32:95": {
+    "src": "/assets/slide-31-32-95.png",
+    "alt": "Feature shipped into production",
+    "exportNodeId": "32:95",
+    "exportKind": "image-node-crop",
+    "sourceAsset": {
+      "id": "32:95",
+      "name": "PR 9781 · sanitised click-to-edit after",
+      "type": "IMAGE",
+      "hash": "2a45ed99d8deae0db573fb00df4681b8759c96b4",
+      "x": 96,
+      "y": 330,
+      "width": 990,
+      "height": 580,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          21936
+        ],
+        [
+          0,
+          1,
+          1890
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          96
+        ],
+        [
+          0,
+          1,
+          330
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "4:121",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "1d980eb38b55a8b40c5b0af46342e1e628442cbf7cc715a2cf3c882c84ae9d01",
+    "exportedWidth": 990,
+    "exportedHeight": 580,
+    "presentationCrop": {
+      "x": 0,
+      "y": 15,
+      "width": 990,
+      "height": 550,
+      "sourceWidth": 990,
+      "sourceHeight": 580
+    },
+    "presentationCropReason": "User approved removing exported black padding on 2026-11-10. Bounds verified by pixel inspection and visual review; original PNG, source geometry and hash remain unchanged."
+  },
+  "32:97": {
+    "src": "/assets/slide-31-32-97.png",
+    "alt": "Feature shipped into production",
+    "exportNodeId": "32:96",
+    "exportKind": "clipped-viewport",
+    "sourceAsset": {
+      "id": "32:97",
+      "name": "activity-after.png",
+      "type": "IMAGE",
+      "hash": "f0a5e2966be1143c08e7f85252dceac01d7a181c",
+      "x": -768,
+      "y": 0,
+      "width": 1440,
+      "height": 1000,
+      "absoluteTransform": [
+        [
+          1,
+          0,
+          22222
+        ],
+        [
+          0,
+          1,
+          1650
+        ]
+      ],
+      "scaleMode": "FIT",
+      "imageTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "rotation": 0,
+      "filters": {
+        "exposure": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0,
+        "tint": 0,
+        "highlights": 0,
+        "shadows": 0
+      },
+      "slideRelativeTransform": [
+        [
+          1,
+          0,
+          382
+        ],
+        [
+          0,
+          1,
+          90
+        ]
+      ],
+      "clipAncestors": [
+        {
+          "id": "32:96",
+          "type": "FRAME",
+          "x": 1150,
+          "y": 90,
+          "width": 674,
+          "height": 900
+        },
+        {
+          "id": "4:121",
+          "type": "SLIDE",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "sha256": "0c99a0c17ebe51ff7604a78abfcc6b5a86e40077e2b6a669aba3ef65d04e76e1",
+    "exportedWidth": 674,
+    "exportedHeight": 900
+  }
+}
