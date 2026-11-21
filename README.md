@@ -60,7 +60,7 @@ While either value is blank, the phone remote is off. The "Phone" button is hidd
 
 The full rules are in `docs/implementation-spec.md` under "Phone remote".
 
-There is also an iPhone clicker app that works with the deployed deck: https://github.com/bookwormsuf/fof-clicker
+There is also an iPhone clicker app, QuickClick, that works with the deployed deck: https://github.com/bookwormsuf/quickclick
 
 ## Deployment
 
