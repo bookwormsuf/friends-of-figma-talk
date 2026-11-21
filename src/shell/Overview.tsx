@@ -19,7 +19,7 @@ export function Overview({slides,sections,cards,current,onJump,onClose}:Props){
   if(to===null||e.altKey||e.ctrlKey||e.metaKey)return;e.preventDefault();e.stopPropagation();list[Math.max(0,Math.min(list.length-1,to))].focus();
  };
  return <div ref={root} className="overview" role="dialog" aria-modal="true" aria-label="All slides" onKeyDown={onKey}>
-  <div className="overview-bar"><h2>All slides <span>{cards.length}</span></h2><button className="overview-close" onClick={onClose}>Close <kbd>Esc</kbd></button></div>
+  <div className="overview-bar"><h2>All slides <span>{cards.length}</span></h2><button className="close-button" onClick={onClose}>Close <kbd>Esc</kbd></button></div>
   <VisualProvider paused staticOnly><ol ref={grid} className="overview-grid">{cards.map(c=>{const anchor=slides[sections[c.section].anchorIndex],pinned=sections[c.section].slideIndices.slice(1).map(i=>slides[i]);
    return <li key={c.slideId} className="overview-card" data-current={c.index===current||undefined} data-pinned={c.pinned||undefined}>
     <div className="overview-thumb" aria-hidden="true" inert><div className="overview-thumb-inner"><ThumbBoundary card={c}><SlideVisual slide={anchor} pinned={pinned} active paused step={c.step}/></ThumbBoundary></div></div>

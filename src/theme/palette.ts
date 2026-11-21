@@ -16,7 +16,6 @@ export const palette = {
  },
  /** Interface chrome in shell.css: toolbar, buttons, slide progress, overview, dialogs, presenter, phone panel and remote page. */
  shell: {
-  toolbarLinkText: '#aab5c9',
   wordmarkArrow: '#8993aa',
   kbdText: '#8993aa',
   overviewCountText: '#8993aa',

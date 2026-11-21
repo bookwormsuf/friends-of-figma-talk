@@ -4,7 +4,7 @@ export function PhonePanel({link,connected,live,onNewCode,onOff,onClose}:{link:s
  const [qr,setQr]=useState('');
  useEffect(()=>{let gone=false;setQr('');import('qrcode').then(q=>q.toDataURL(link,{margin:2,width:480})).then(src=>{if(!gone)setQr(src)}).catch(()=>{});return()=>{gone=true}},[link]);
  return <aside id="phone-panel" className="phone-panel" aria-label="Phone remote">
-  <div className="phone-panel-heading"><h2>Phone remote</h2><button onClick={onClose} aria-label="Close phone remote panel">Close ×</button></div>
+  <div className="phone-panel-heading"><h2>Phone remote</h2><button className="close-button" onClick={onClose} aria-label="Close phone remote panel">Close <kbd>Esc</kbd></button></div>
   <p className="phone-panel-warning">Pair before you plug into the projector. Anyone who scans this can move your slides.</p>
   <div className="phone-panel-qr">{qr?<img src={qr} alt="QR code that opens the remote on your phone" width={240} height={240}/>:<span>Making the code…</span>}</div>
   <p className="phone-panel-status" role="status">{!live?'Connecting…':connected?'1 phone connected':'No phone connected'}</p>
