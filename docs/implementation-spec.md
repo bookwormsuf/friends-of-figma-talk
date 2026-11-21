@@ -77,7 +77,7 @@ Replaces decision 10 and the "public notes panel" lines above. Execute verbatim.
 3. The Notes view is driven by the audience window's own position from `usePresentation`. There is one position. Closing the Notes view lands on the slide and step reached inside it.
 4. Open Notes view no longer blocks navigation. Arrow keys, Page Up, Page Down and the Previous and Next buttons all move the deck. The held-key guard still applies.
 5. Slides in the Notes view are still pictures, as in the presenter window. In-slide steps take one press each and the header shows "step n of m".
-6. Header in the Notes view: "Close" with an Esc key hint on the left, slide count and step on the right. No sync status. The presenter window header is unchanged.
+6. Header in the Notes view: "Close" with an Esc key hint on the right. No sync status. Slide count and step sit beside the "Speaker notes" title, in the Notes view and the presenter window. The presenter window header keeps its link and sync status.
 7. A Next or Previous sent from the presenter window or the phone remote does not close the Notes view. It stays open and moves with the press. The overview and an enlarged image still close. (Changed 18 November 2026 at Sufyan's request; the earlier rule closed the Notes view first.)
 8. The presenter window keeps opening as a separate window and keeps following the audience window over the message channel.
 9. Slide changes inside the Notes view are instant. The deck behind does not glide.
